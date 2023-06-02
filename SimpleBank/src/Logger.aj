@@ -24,9 +24,9 @@ public aspect Logger {
 	after(): transaction() {
 		transactionType = "Realizar transacción (Depósito)";
 		logFile(transactionType);}
-	
-	pointcut retiro() : call(* com.bank.Bank.moneyWithdrawal()) ;
-	after(): retiro() {
+	//Metodo para retirar el dinero
+	pointcut retiroDeDinero() : call(* com.bank.Bank.moneyWithdrawal()) ;
+	after(): retiroDeDinero() {
 		transactionType = "Retiro de dinero";
 		logFile(transactionType);}
 	
