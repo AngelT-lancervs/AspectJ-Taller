@@ -1,0 +1,15 @@
+Tipo de transacción: Realizar transacción (Depósito)
+Fecha y hora: 2023-06-01 18:57:53
+------------------------------------
+Tipo de transacción: Realizar transacción (Depósito)
+Fecha y hora: 2023-06-01 19:00:20
+------------------------------------
+Tipo de transacción: Realizar transacción (Depósito)
+Fecha y hora: 2023-06-01 19:19:51
+------------------------------------
+Tipo de transacción: Realizar transacción (Depósito)
+Fecha y hora: 2023-06-01 19:28:02
+------------------------------------
+Tipo de transacción: Retiro de dinero
+Fecha y hora: 2023-06-01 19:37:46
+------------------------------------
